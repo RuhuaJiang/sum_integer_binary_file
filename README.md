@@ -1,6 +1,8 @@
+Goal:
 Calculate the sum of values stored in a user-specified binary file. The sum is limited to 64-bit precision.
 
-The program can be provided only one argument, the path to the binary file
+Input:
+The program needs one argument: The path to the binary file
 containing the list of integers. The binary file consists of an array of
 little-endian 32-bit unsigned integers.
 
